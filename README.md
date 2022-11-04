@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- i am dheeraj,
+- I am intrested in data analytics
+- 🔭currently learning the databases and some techniques for analytics
+- 📫 reach me at: meeladheeraj1@gmail.com
