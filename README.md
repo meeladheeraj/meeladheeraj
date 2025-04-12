@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - i am dheeraj,
-- I am intrested in data analytics
-- 🔭currently learning the databases and some techniques for analytics
+- I am intrested in IOS Development
+- 🔭currently learning the new Mobile development skills
 - 📫 reach me at: meeladheeraj1@gmail.com
 
 <details>	
